@@ -101,7 +101,8 @@
 **外部キー制約**: `episode_id` に対して `episode` テーブルから設定
 
 ## ER図
-![ER図]("C:\Users\lokiv\OneDrive\画像\スクリーンショット\er_quest_database 2024-10-31 153337.png")
+![ER図](images/er_quest_database_2024-10-31_153337.png)
+
 
 
 以上時点で第三正規化まで完了、重複データの入力を防ぐユニークキー制約の設定完了
